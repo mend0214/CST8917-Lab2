@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<Storage Account Connection String>",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "ImageStorageConnection": "<Storage Account Connection String>"
+  },
+  "Host": {
+    "CORS": "*"
+  }
+}
