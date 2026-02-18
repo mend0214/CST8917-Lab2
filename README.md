@@ -1,7 +1,7 @@
 # CST8917 Lab 2: Smart Image Analyzer with Durable Functions
 
 ## Youtube Demo
-https://youtu.be/wK4FrcUCQ_4
+https://youtu.be/QSI3q_Orres
 
 ---
 
